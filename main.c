@@ -5,6 +5,9 @@
 
 int main()
 {
+
 	float val = Soma(5, 6);
+
+	printf("Soma = %f\n", val);
 }
 
